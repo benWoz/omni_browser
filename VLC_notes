@@ -1,0 +1,4 @@
+-vvv //gives very verbose messages
+
+VLC.app/Contents/MacOS/cVLC --extraintf rc /New\ Torrents/Movies/Blueberry.avi
+
